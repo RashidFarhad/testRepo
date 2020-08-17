@@ -1,8 +1,11 @@
-Origin: Toanlu
-Label: lutoan
+Origin: KURDPAXSH Repo
+Label: KURDPAXSH Repo
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: sizar
 Architecture: iphoneos-arm
 Components: main
-Description: Chia se tweak hay
+Description: Created By @s1z4r.
+MD5Sum:
+ 6213b6ad60a58216972ab62e1cb4a166 13949 Packages
+ 3b3e4e06df3de8235c4e90bea500487d 4420 Packages.bz2
